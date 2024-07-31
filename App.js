@@ -114,7 +114,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
     padding: 20,
-    backgroundColor: 'rgba(255, 255, 255, 0.7)', // Ajoute une légère opacité pour que le texte soit lisible
+    backgroundColor: 'rgba(255, 255, 255, 0.7)',
   },
   loaderContainer: {
     flex: 1,
